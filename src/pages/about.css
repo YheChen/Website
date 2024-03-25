@@ -46,3 +46,22 @@
   color: white;
   transition: color 0.15s ease;
 }
+.grid-container {
+  display: grid;
+  grid-template-columns: 600px 1fr 200px;
+  overflow-y: auto;
+}
+.about-text {
+  grid-column: 2;
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-size: 30px;
+  font-family: Calibri;
+}
+.about-header {
+  display: flex;
+  justify-content: left;
+  font-size: 40px;
+  font-weight: bold;
+}

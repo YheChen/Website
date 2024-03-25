@@ -46,3 +46,9 @@
   border-width: 0px;
   top: 50%;
 }
+.projects-text {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-size: 20px;
+}

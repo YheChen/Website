@@ -14,6 +14,9 @@ function Projects() {
         </Link>
         <button className="projectspg-projects-button">Projects</button>
       </div>
+      <div className="projects-text">
+        <p>No Projects!</p>
+      </div>
     </div>
   );
 }
