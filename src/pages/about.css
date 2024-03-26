@@ -54,16 +54,37 @@
   max-height: calc(100vh - 100px);
 }
 .about-text {
-  margin-top: -30px;
+  margin-top: -55px;
   grid-column: 2;
   color: white;
-  font-size: 30px;
+  font-size: 35px;
   font-family: Calibri;
   user-select: none;
   margin-bottom: 100px;
 }
+.paragraph-text {
+  margin-top: 75px;
+}
 .about-header {
   font-size: 40px;
-  margin-top: -10px;
+  margin-top: 50px;
   margin-bottom: -10px;
+}
+.university-text {
+  margin-left: 120px;
+  font-size: 30px;
+  margin-top: 55px;
+  color: white;
+}
+.degree-text {
+  font-size: 30px;
+  margin-left: 120px;
+  color: white;
+  margin-top: 20px;
+}
+.locodate-text {
+  font-size: 20px;
+  margin-left: 120px;
+  color: rgba(128, 128, 128, 0.705);
+  margin-top: 20px;
 }

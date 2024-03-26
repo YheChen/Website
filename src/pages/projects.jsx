@@ -21,46 +21,7 @@ function Projects() {
             <div className="projects-header">
               <p>Personal Portfolio Webpage</p>
             </div>
-            <p>
-              Utilized HTML, CSS, JavaScript and React.js to develop a static
-              webpage hosted by Netlify.
-            </p>
-            <p>
-              test test test test test test test test test test test test test
-              test
-            </p>
-            <p>
-              test test test test test test test test test test test test test
-              test
-            </p>
-            <p>
-              test test test test test test test test test test test test test
-              test
-            </p>
-            <p>
-              test test test test test test test test test test test test test
-              test
-            </p>
-            <p>
-              test test test test test test test test test test test test test
-              test
-            </p>
-            <p>
-              test test test test test test test test test test test test test
-              test
-            </p>
-            <p>
-              test test test test test test test test test test test test test
-              test
-            </p>
-            <p>
-              test test test test test test test test test test test test test
-              test
-            </p>
-            <p>
-              test test test test test test test test test test test test test
-              test
-            </p>
+            <p></p>
             <div className="projects-header">
               <p>YheChen.gg League Tracker</p>
             </div>
