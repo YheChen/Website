@@ -31,10 +31,16 @@ function About() {
               love to have the privilege to apply my skills in a workplace
               setting!
             </p>
-            <p className="about-header">Education</p>
-            <p>University of Toronto</p>
-            <p>Bachelors of Science</p>
-            <p>Toronto, ON, Canada · September 2023 - April 2027</p>
+            <div className="about-header">
+              <p>Education</p>
+            </div>
+          </div>
+          <div className="education-text">
+            <p className="university-text">University of Toronto</p>
+            <p className="degree-text">Bachelors of Science</p>
+            <p className="locodate-text">
+              Toronto, ON, Canada · September 2023 - April 2027
+            </p>
           </div>
         </div>
       </div>

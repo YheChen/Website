@@ -5,6 +5,7 @@
   background-color: black;
   justify-content: center;
   align-items: center;
+  user-select: none;
 }
 .projectspg-home-button {
   margin: 35px;
@@ -46,9 +47,24 @@
   border-width: 0px;
   top: 50%;
 }
+.grid-container {
+  display: grid;
+  grid-template-columns: 600px 1fr 200px;
+  overflow-y: auto;
+  max-height: 100vh;
+}
 .projects-text {
+  grid-column: 2;
   display: flex;
   justify-content: center;
   color: white;
-  font-size: 20px;
+  font-size: 30px;
+  font-family: Calibri;
+  user-select: none;
+}
+.projects-header {
+  display: flex;
+  justify-content: left;
+  font-size: 40px;
+  font-weight: bold;
 }

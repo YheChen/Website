@@ -14,8 +14,62 @@ function Projects() {
         </Link>
         <button className="projectspg-projects-button">Projects</button>
       </div>
-      <div className="projects-text">
-        <p>No Projects!</p>
+      <div className="grid-container">
+        <div className="projects-text">
+          <div>
+            <p>This page is under development!</p>
+            <div className="projects-header">
+              <p>Personal Portfolio Webpage</p>
+            </div>
+            <p>
+              Utilized HTML, CSS, JavaScript and React.js to develop a static
+              webpage hosted by Netlify.
+            </p>
+            <p>
+              test test test test test test test test test test test test test
+              test
+            </p>
+            <p>
+              test test test test test test test test test test test test test
+              test
+            </p>
+            <p>
+              test test test test test test test test test test test test test
+              test
+            </p>
+            <p>
+              test test test test test test test test test test test test test
+              test
+            </p>
+            <p>
+              test test test test test test test test test test test test test
+              test
+            </p>
+            <p>
+              test test test test test test test test test test test test test
+              test
+            </p>
+            <p>
+              test test test test test test test test test test test test test
+              test
+            </p>
+            <p>
+              test test test test test test test test test test test test test
+              test
+            </p>
+            <p>
+              test test test test test test test test test test test test test
+              test
+            </p>
+            <div className="projects-header">
+              <p>YheChen.gg League Tracker</p>
+            </div>
+            <p>
+              Utilized the Riot Games Api to create a web application that can
+              display player data.
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   );

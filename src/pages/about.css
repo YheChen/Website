@@ -5,6 +5,7 @@
   background-color: black;
   justify-content: center;
   align-items: center;
+  user-select: none;
 }
 .aboutpg-home-button {
   margin: 35px;
@@ -50,18 +51,19 @@
   display: grid;
   grid-template-columns: 600px 1fr 200px;
   overflow-y: auto;
+  max-height: calc(100vh - 100px);
 }
 .about-text {
+  margin-top: -30px;
   grid-column: 2;
-  display: flex;
-  justify-content: center;
   color: white;
   font-size: 30px;
   font-family: Calibri;
+  user-select: none;
+  margin-bottom: 100px;
 }
 .about-header {
-  display: flex;
-  justify-content: left;
   font-size: 40px;
-  font-weight: bold;
+  margin-top: -10px;
+  margin-bottom: -10px;
 }
