@@ -17,11 +17,14 @@ function Projects() {
       <div className="grid-container">
         <div className="projects-text">
           <div>
-            <p>This page is under development!</p>
+            <p>This page is still under development!</p>
             <div className="projects-header">
               <p>Personal Portfolio Webpage</p>
             </div>
-            <p></p>
+            <p>
+              Created a static webpage to show off my portfolio utilizing the
+              React.js library.
+            </p>
             <div className="projects-header">
               <p>YheChen.gg League Tracker</p>
             </div>
