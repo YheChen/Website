@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89d6a972.css",
+    "main.js": "/static/js/main.75400f0f.js",
+    "static/media/2.jpg": "/static/media/2.736e1da38d728cac2d29.jpg",
+    "static/media/14.jpg": "/static/media/14.009844b245be9271fce2.jpg",
+    "static/media/17.jpg": "/static/media/17.46b78f211acf0354900d.jpg",
+    "static/media/10.jpg": "/static/media/10.d8dba6337b496db5e3e0.jpg",
+    "static/media/7.jpg": "/static/media/7.e08bf695b12047c11855.jpg",
+    "static/media/16.jpg": "/static/media/16.bb354ee589da0f3d7c84.jpg",
+    "static/media/8.jpg": "/static/media/8.dbf1b5c0bdd17d30d27b.jpg",
+    "static/media/lastdayofsummer.png": "/static/media/lastdayofsummer.d6e8bf1d4ddf5c7ec640.png",
+    "static/media/9replacement.png": "/static/media/9replacement.0b883fb4ed03b562db32.png",
+    "static/media/12.jpg": "/static/media/12.4f2a57b8779a81f0addf.jpg",
+    "static/media/rooftop.jpg": "/static/media/rooftop.4dc47bb6d5073e0c2da8.jpg",
+    "index.html": "/index.html",
+    "main.89d6a972.css.map": "/static/css/main.89d6a972.css.map",
+    "main.75400f0f.js.map": "/static/js/main.75400f0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89d6a972.css",
+    "static/js/main.75400f0f.js"
+  ]
+}
