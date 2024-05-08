@@ -19,7 +19,7 @@ function About() {
           <div>
             <p className="paragraph-text">
               I'm Yanzhen, an undergraduate student in my first year of studies
-              in mathematics at the University of Toronto.
+              in Mathematics and Statistics at the University of Toronto.
             </p>
             <p className="paragraph-text">
               While pursuing my studies, I have been learning web development
@@ -36,8 +36,11 @@ function About() {
             </div>
           </div>
           <div className="education-text">
-            <p className="university-text">University of Toronto</p>
-            <p className="degree-text">Bachelors of Science</p>
+            <p className="university-text">
+              University of Toronto • Bachelors of Science
+            </p>
+            <p className="degree-text"></p>
+            <p className="major-text">Mathematics Major & Statistics Major</p>
             <p className="locodate-text">
               Toronto, ON, Canada · September 2023 - April 2027
             </p>

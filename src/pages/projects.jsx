@@ -17,22 +17,30 @@ function Projects() {
       <div className="grid-container">
         <div className="projects-text">
           <div>
-            <p>This page is still under development!</p>
             <div className="projects-header">
               <p>Personal Portfolio Webpage</p>
             </div>
             <p>
               Created a static webpage to show off my portfolio utilizing the
-              React.js library.
+              React.js library, hosted by GitHub Pages.
             </p>
             <div className="projects-header">
               <p>YheChen.gg League Tracker</p>
             </div>
             <p>
-              Utilized the Riot Games Api to create a web application that can
-              display player data.
+              Utilized the Riot Games Api to create a React.js web application
+              that can display player data.
             </p>
           </div>
+          <div className="projects-header">
+            <p>MedEasy Health Summarizer</p>
+          </div>
+          <p>
+            Collaborated on a local React.js web application using Synthea to
+            simulate a patient's health records, which were processed to a Code
+            Llama LLM using together.api to create a summary of important
+            details.
+          </p>
         </div>
       </div>
     </div>
