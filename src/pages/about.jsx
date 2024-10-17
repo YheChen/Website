@@ -18,7 +18,7 @@ function About() {
         <div className="about-text">
           <div>
             <p className="paragraph-text">
-              I'm Yanzhen, an undergraduate student in my first year of studies
+              I'm Yanzhen, an undergraduate student in my second year of studies
               in Mathematics and Statistics at the University of Toronto.
             </p>
             <p className="paragraph-text">
@@ -37,7 +37,7 @@ function About() {
           </div>
           <div className="education-text">
             <p className="university-text">
-              University of Toronto • Bachelors of Science
+              University of Toronto • Honors Bachelors of Science
             </p>
             <p className="degree-text"></p>
             <p className="major-text">Mathematics Major & Statistics Major</p>

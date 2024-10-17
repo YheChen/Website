@@ -25,21 +25,30 @@ function Projects() {
               React.js library, hosted by GitHub Pages.
             </p>
             <div className="projects-header">
-              <p>YheChen.gg League Tracker</p>
+              <p>Player Profile Analyzer</p>
             </div>
             <p>
-              Utilized the Riot Games Api to create a React.js web application
-              that can display player data.
+              Developed a web application to showcase player statistics and
+              performance metrics from League of Legends, utilizing the Riot
+              Games API to collect and display player data from past matches
+              played
             </p>
           </div>
           <div className="projects-header">
-            <p>MedEasy Health Summarizer</p>
+            <p>Patient Health Record Summarizer</p>
           </div>
           <p>
-            Collaborated on a local React.js web application using Synthea to
-            simulate a patient's health records, which were processed to a Code
-            Llama LLM using together.api to create a summary of important
-            details. TEST TESET TESTE TESET.
+            Collaborated on a local React.js web application for simulating
+            patient health records using Synthea, integrating a large language
+            model sourced from Meta's Code Llama to process patient data.
+          </p>
+          <p>
+            Utilized Together.api to extract and summarize important details
+            from the health records.
+          </p>
+          <p>
+            Designed and implemented a chatbot to respond to medical-related
+            inquiries from patients
           </p>
         </div>
       </div>
