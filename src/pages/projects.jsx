@@ -39,7 +39,7 @@ function Projects() {
             Collaborated on a local React.js web application using Synthea to
             simulate a patient's health records, which were processed to a Code
             Llama LLM using together.api to create a summary of important
-            details.
+            details. TEST TESET TESTE TESET.
           </p>
         </div>
       </div>
